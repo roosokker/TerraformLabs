@@ -1,0 +1,7 @@
+# ami = "ami-0c02fb55956c7d316"
+# instance_type = "t2.micro"
+# key_name = "rodaina-key"
+# public_key= "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQCWwClmjzutrATgrZINELjPoWwpPxb3jj0CISC3va+LytSkE/uN/6jl1e3BkukGxFHwHSE4Avb2jgwYEFYZr/Wapza7nMrWzsL68NvOVWtOjlqGEwJS7XnXW+kZAL4D49In8xLLgRO+1ThLINgDcdV6hJoa+rB5sJ501hmJ8OfJaRHDcwsa1jEaP9r7l2VJEjimXecPP1y4lwK8kNTsrBRAlY7/wB5r1uEPkukwUIdRCUb8/09XOTBN6/V+DSQJPOMIRehoquLD8qyQfnwI31g7a9U2iW/ThC4IFAU6PZKsiQ/S9K9ZV97Vr1uztBGb2PkoLcgkGuwc9mTd3cBb7GOvpqIel4M74Dd3ZBZPDXp71KJDWKkrYqNfZMEf5lz6VwmZDyXdlF1Mp3wJZtIySwJd3EcLj8i0W2XEdY7o6EG6e9xHxKH5Nqrb4D/5Jn1utXHdZWcGQo/KlmzSLoQgLF/e4ncK/r/mgPbyZ//YwX9tZ9uXZSOwYjEmOaG3HR6mCvs= rodaina@rodaina-virtual-machine"
+# vpc_id = "vpc-02f843ff8f4d4278c"
+# ec2Tag = "rodaina"
+# region = "us-east-1"
